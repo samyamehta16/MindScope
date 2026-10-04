@@ -1,0 +1,9 @@
+torch>=2.0
+numpy>=1.26
+pandas>=2.0
+pillow>=10.0
+matplotlib>=3.8
+scikit-learn>=1.4
+datasets>=2.18
+huggingface_hub>=0.20
+tokenizers>=0.15
